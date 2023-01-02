@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://www.bazzile.app/images/logo-white-d060cc96813afc0aeefa402a06e5c2c7.svg?vsn=d
   name: Monitoring
   introTitle: "**Bazzile**, the new Real Estate Portal."
-  introMessage: The status of our services are updated every 5 minutes.
+  introMessage: The status of our services are updated every 5 minutes and reflected here each day.
   navbar:
     - title: Status
       href: /
