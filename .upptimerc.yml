@@ -15,12 +15,14 @@ sites:
     body: '{"query": "{placesAutocomplete(query:\"Rue Charles-Galland\"){name}}","variables": {}}'
     headers:
       - "Content-Type: application/json"
-
+  - name: Cloud
+    url: https://cloud.bazzile.ch
+   
 status-website:
   cname: monitoring.bazzile.ch
   theme: night
   logoUrl: https://www.bazzile.app/images/logo-white-d060cc96813afc0aeefa402a06e5c2c7.svg?vsn=d
-  name: Bazzile Monitoring
+  name: Monitoring
   introTitle: "**Bazzile**, the new Real Estate Portal."
   introMessage: The status of our services are updated every 5 minutes.
   navbar:
