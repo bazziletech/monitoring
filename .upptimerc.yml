@@ -1,9 +1,6 @@
 owner: bazziletech
 repo: monitoring
 
-assignees:
-  - RoyalMist
-
 sites:
   - name: Website
     url: https://www.bazzile.ch
@@ -15,6 +12,9 @@ sites:
     body: '{"query": "{placesAutocomplete(query:\"Rue Charles-Galland\"){name}}","variables": {}}'
     headers:
       - "Content-Type: application/json"
+
+assignees:
+  - RoyalMist
 
 status-website:
   cname: monitoring.bazzile.ch
