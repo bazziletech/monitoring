@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 309,
-    "timeWeek": 618,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 617,
+    "timeDay": 611,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 989,
-    "timeDay": 739,
-    "timeWeek": 989,
-    "timeMonth": 989,
-    "timeYear": 989,
-    "dailyMinutesDown": {
-      "2023-01-08": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 984,
+    "timeDay": 938,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 101,
+    "timeDay": 120,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2023-01-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1864,
-    "timeDay": 711,
-    "timeWeek": 1864,
-    "timeMonth": 1864,
-    "timeYear": 1864,
+    "time": 1888,
+    "timeDay": 2109,
+    "timeWeek": 1888,
+    "timeMonth": 1888,
+    "timeYear": 1888,
     "dailyMinutesDown": {}
   }
 ]
