@@ -58,17 +58,19 @@
     "url": "https://cloud.bazzile.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.bazzile.ch.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1855,
-    "timeDay": 2267,
-    "timeWeek": 1809,
-    "timeMonth": 1855,
-    "timeYear": 1855,
-    "dailyMinutesDown": {}
+    "time": 1787,
+    "timeDay": 1385,
+    "timeWeek": 1646,
+    "timeMonth": 1787,
+    "timeYear": 1787,
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
