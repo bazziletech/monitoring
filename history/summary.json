@@ -4,10 +4,10 @@
     "url": "https://www.bazzile.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
@@ -15,17 +15,19 @@
     "timeWeek": 638,
     "timeMonth": 630,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "APP",
     "url": "https://www.bazzile.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 974,
@@ -33,16 +35,18 @@
     "timeWeek": 1090,
     "timeMonth": 974,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "API",
     "url": "https://www.bazzile.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,26 +55,28 @@
     "timeWeek": 146,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   },
   {
     "name": "Cloud",
     "url": "https://cloud.bazzile.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.bazzile.ch.ico",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1871,
     "timeDay": 2449,
     "timeWeek": 1941,
     "timeMonth": 1871,
     "timeYear": 1871,
     "dailyMinutesDown": {
-      "2023-01-23": 11
+      "2023-01-23": 0
     }
   }
 ]
