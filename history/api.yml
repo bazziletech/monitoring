@@ -1,7 +1,7 @@
 url: https://www.bazzile.app/api
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2023-07-22T23:04:13.775Z
+status: down
+code: 503
+responseTime: 167
+lastUpdated: 2023-07-23T13:04:14.793Z
 startTime: Mon Jan 02 2023 11:08:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
