@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.48%",
-    "time": 1214,
-    "timeDay": 2318,
-    "timeWeek": 2373,
-    "timeMonth": 2430,
-    "timeYear": 1253,
+    "uptimeYear": "99.49%",
+    "time": 1217,
+    "timeDay": 2507,
+    "timeWeek": 2368,
+    "timeMonth": 2437,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2024-01-11": 113,
       "2023-11-15": 508,
@@ -25,8 +25,7 @@
       "2023-06-03": 382,
       "2023-04-04": 27,
       "2023-02-21": 62,
-      "2023-01-25": 22,
-      "2023-01-24": 11
+      "2023-01-25": 22
     }
   },
   {
@@ -35,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 912,
     "timeDay": 766,
-    "timeWeek": 891,
-    "timeMonth": 856,
+    "timeWeek": 893,
+    "timeMonth": 859,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2023-10-22": 36,
@@ -62,8 +61,7 @@
       "2023-04-04": 27,
       "2023-03-31": 26,
       "2023-02-21": 62,
-      "2023-01-25": 22,
-      "2023-01-24": 11
+      "2023-01-25": 22
     }
   },
   {
@@ -72,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 168,
-    "timeDay": 172,
-    "timeWeek": 152,
-    "timeMonth": 130,
+    "timeDay": 171,
+    "timeWeek": 153,
+    "timeMonth": 132,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-10-22": 36,
@@ -98,8 +96,7 @@
       "2023-04-04": 27,
       "2023-03-31": 26,
       "2023-02-21": 37,
-      "2023-01-25": 22,
-      "2023-01-24": 11
+      "2023-01-25": 22
     }
   }
 ]
