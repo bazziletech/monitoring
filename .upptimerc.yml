@@ -6,8 +6,7 @@ assignees:
 
 sites:
   - name: Website
-    url: https://www.bazzile.ch
-    maxResponseTime: 600000
+    url: https://www.bazzile.com
   - name: APP
     url: https://www.bazzile.app
   - name: API
