@@ -60,10 +60,10 @@
     "url": "https://www.bazzile.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 783,
@@ -72,6 +72,7 @@
     "timeMonth": 1002,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2025-02-22": 1,
       "2025-02-21": 34,
       "2024-12-29": 19,
       "2024-04-25": 81
@@ -82,9 +83,9 @@
     "url": "https://www.bazzile.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/www.bazzile.app.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.64%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -94,6 +95,7 @@
     "timeMonth": 143,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2025-02-21": 34,
       "2024-12-29": 18,
       "2024-04-25": 57
