@@ -1,7 +1,7 @@
 url: https://www.bazzile.com
-status: up
-code: 200
-responseTime: 1232
-lastUpdated: 2025-05-04T23:05:00.657Z
+status: down
+code: 500
+responseTime: 1262
+lastUpdated: 2025-05-05T02:29:25.764Z
 startTime: 2023-01-02T11:08:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
