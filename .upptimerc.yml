@@ -9,13 +9,15 @@ sites:
     url: https://www.bazzile.com
   - name: APP
     url: https://www.bazzile.app
+    maxResponseTime: 60000
   - name: API
     url: https://www.bazzile.app/api
     method: POST
     body: '{"query": "{placesAutocomplete(query:\"Rue Charles-Galland\"){name}}","variables": {}}'
     headers:
       - "Content-Type: application/json"
-   
+    maxResponseTime: 60000
+
 status-website:
   cname: monitoring.bazzile.ch
   theme: night
@@ -27,6 +29,6 @@ status-website:
     - title: Status
       href: /
     - title: Site
-      href: https://www.bazzile.ch
+      href: https://www.bazzile.com
     - title: App
       href: https://www.bazzile.app
