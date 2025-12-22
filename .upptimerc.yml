@@ -9,14 +9,14 @@ delay: 2000
 sites:
   - name: Website
     url: https://www.bazzile.com
-  - name: APP
-    url: https://www.bazzile.app
-  - name: API
-    url: https://www.bazzile.app/api
-    method: POST
-    body: '{"query": "{placesAutocomplete(query:\"Rue Charles-Galland\"){name}}","variables": {}}'
-    headers:
-      - "Content-Type: application/json"
+    # - name: APP
+    #   url: https://www.bazzile.app
+    # - name: API
+    #   url: https://www.bazzile.app/api
+    #   method: POST
+    #   body: '{"query": "{placesAutocomplete(query:\"Rue Charles-Galland\"){name}}","variables": {}}'
+    #   headers:
+    #     - "Content-Type: application/json"
 
 status-website:
   cname: monitoring.bazzile.ch
